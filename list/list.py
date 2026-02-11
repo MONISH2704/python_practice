@@ -27,3 +27,5 @@ print("index of 10:",num.index(10))
 print ("for loop:")
 for i in range(len(num)):
     print(num[i])
+#list repetation
+print("repeatation:",num*2)
