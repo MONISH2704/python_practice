@@ -2,7 +2,7 @@ a=(1,2,3,4)
 print(type(a))
 #accessing tuple
 print(a[1])
-print(a[0:3])
+print(a[::-1])
 #concatenation
 b=(5,6,7)
 print("cancatenated:",a+b)
