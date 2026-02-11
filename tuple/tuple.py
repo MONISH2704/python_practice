@@ -10,3 +10,5 @@ print("cancatenated:",a+b)
 print("repetition:",a*2)
 #length
 print(len(a))
+for i in range (len(a)):
+    print(a[i])
