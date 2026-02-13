@@ -3,7 +3,7 @@ b={3,4,5,6}
 print(type(a))
 
 #can be accesed only by loop
-for i in range(len(a)):
+for i in a:
     print(i)
 #add element
 a.add(7)
